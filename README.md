@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
+### About Me 👩‍🚀
 
 - 🔖 **Fun fact:** I used to be a former corporate strategy consultant and a registered lobbyist for an international corporation 
 
@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 
 - ✨ **Interests:** Design, crafts and food
 
-### Contact Me 
+### Contact Me 📥 
 
-- ✅ Visit my [Portfolio](https://ellenpark.netlify.app/)
-- 📧 Email me at [hyunpark.ellen@gmail.com](mailto:hyunpark.ellen@gmail.com)
-
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/hyunellenpark1)
+- ✅ Visit my **[Portfolio](https://ellenpark.netlify.app/)**
+- 📧 Email me at **[hyunpark.ellen@gmail.com](mailto:hyunpark.ellen@gmail.com)**
+- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/hyunellenpark1)**
 
 ### 😀 Please feel free to reach out or connect!
