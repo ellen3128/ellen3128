@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About Me 👩‍🚀
 
-- 🔖 **Fun fact:** I used to be a former corporate strategy consultant and a registered lobbyist for an international corporation 
+- 🔖 **Fun fact:** I'm a former corporate strategy consultant and a registered lobbyist for an international corporation. I love design and programming!  
 
 - ⚡ **Soft Skills:** Intuitive design and innovative problem-solving 
 
