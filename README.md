@@ -5,13 +5,13 @@
 
 ### About Me 👩‍🚀
 
-- 🔖 **Fun fact:** Former corporate strategy consultant and a registered lobbyist for an international corporation. Love design, traveling, thrillers, animals and programming! 
+- 🔖 **Fun fact:** Former corporate strategy consultant and a registered lobbyist for an international corporation. Love design and programming! 
 
-- ⚡ **Soft Skills:** Intuitive design and innovative problem-solving 
+- ⚡ **Soft Skills:** Intuitive design and innovative problem-solving
 
 - 💻 **Hard Skills:** HTML, CSS, JavaScript, React, Vue and more! 
 
-- ✨ **Interests:** Design, crafts and food
+- ✨ **Interests:** Design, crafts, traveling and food
 
 ### Contact Me 📥 
 
