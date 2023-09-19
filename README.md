@@ -5,7 +5,7 @@
 
 ### About Me 👩‍🚀
 
-- 🔖 **Fun fact:** Former corporate strategy consultant and a registered lobbyist for an international corporation && Love design and programming!  
+- 🔖 **Fun fact:** Former corporate strategy consultant and a registered lobbyist for an international corporation. Love design, traveling, thrillers, animals and programming! 
 
 - ⚡ **Soft Skills:** Intuitive design and innovative problem-solving 
 
