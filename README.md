@@ -16,7 +16,7 @@
 ### Contact Me 📥 
 
 - ✅ Visit my **[Portfolio](https://ellenpark-portfolio.netlify.app/)**
-- 📧 Email me at **[hyunpark.ellen@gmail.com](mailto:ellenpark3128@gmail.com)**
+- 📧 Email me at **[ellenpark3128@gmail.com](mailto:ellenpark3128@gmail.com)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/hyunellenpark1)**
 
 ### 😀 Please feel free to reach out or connect!
