@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ellen!
 
-📍 I'm a front-end developer based in Washington DC.
+📍 I'm a front-end developer with experience in back-end services, based in Washington DC.
 
 
 ### About Me 👩‍🚀
@@ -15,7 +15,7 @@
 
 ### Contact Me 📥 
 
-- ✅ Visit my **[Portfolio](https://ellenpark-portfolio.netlify.app/)**
+- ✅ Visit my **[Portfolio](https://ellenpark.netlify.app/)**
 - 📧 Email me at **[ellenpark3128@gmail.com](mailto:ellenpark3128@gmail.com)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/hyunellenpark1)**
 
