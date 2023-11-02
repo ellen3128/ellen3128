@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ellen!
 
-📍 I'm a front-end developer with experience in back-end services, based in Washington DC.
+📍 I'm a full-stack developer based in Washington DC.
 
 
 ### About Me 👩‍🚀
